@@ -43,7 +43,7 @@
 Проектът е Single Page Application (SPA)
 
 * **Frontend:** HTML5, Semantic tags.
-* **Styling:** [Tailwind CSS]
+* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 * **Logic:** Modern JavaScript (ES6+). Използва обектно-ориентиран подход чрез `App` обект, разделен на модули (`game`, `ui`, `shop`, `router`).
 * **Visuals:**
     * Matrix Code Rain ефект (Canvas API).
